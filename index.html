@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SeriesApp | Explorador de Series con TVmaze API</title>
+
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="site-header__container">
+      <h1 class="site-header__logo">SeriesApp</h1>
+      <nav class="site-header__nav">
+        <ul class="nav-list">
+          <li class="nav-list__item"><a href="index.html" class="nav-list__link">Inicio</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+
+    <section class="search-section" aria-label="Buscar series">
+      <form class="search-form" id="search-form">
+        <input
+          type="text"
+          id="search-input"
+          class="search-form__input"
+          placeholder="Buscar una serie..."
+          autocomplete="off"
+        >
+        <button type="submit" class="search-form__button">Buscar</button>
+      </form>
+    </section>
+
+    <section class="shows-section" aria-label="Listado de series">
+      <h2 class="shows-section__title">Series populares</h2>
+      <div class="shows-grid" id="shows-grid">
+       
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p class="site-footer__text">Datos proporcionados por <a href="https://www.tvmaze.com/api" target="_blank" rel="noopener">TVmaze API</a></p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.7/axios.min.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/dom.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
