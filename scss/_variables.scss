@@ -1,19 +1,34 @@
-// Paleta de colores
-$color-bg: #0f0f14;
-$color-surface: #1a1a22;
-$color-primary: #ff5c5c;
-$color-text: #f1f1f4;
-$color-text-dim: #9a9aa5;
-$color-border: #2c2c36;
+// Paleta "Marquesina de cine"
+
+$color-bg: #0e1016;
+$color-surface: #171a24;
+$color-surface-alt: #1f2330;
+$color-primary: #e8b34a;      // dorado, luces de marquesina
+$color-secondary: #c1443c;    // rojo profundo, telón/REC
+$color-text: #f4f2ec;
+$color-text-dim: #8b8fa3;
+$color-border: #2a2e3d;
 
 // Tipografía
-$font-primary: 'Segoe UI', system-ui, sans-serif;
+
+$font-display: 'Bebas Neue', system-ui, sans-serif;
+$font-body: 'Inter', system-ui, sans-serif;
 
 // Espaciado
+
+$spacing-xs: 4px;
 $spacing-sm: 8px;
 $spacing-md: 16px;
 $spacing-lg: 32px;
+$spacing-xl: 48px;
 
 // Breakpoints
+
 $breakpoint-mobile: 600px;
 $breakpoint-tablet: 900px;
+
+// Bordes y sombras
+
+$radius-sm: 6px;
+$radius-md: 10px;
+$shadow-card: 0 8px 24px rgba(0, 0, 0, 0.35);
