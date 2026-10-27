@@ -28,6 +28,7 @@ Sitio sobre series de televisión con estilos organizados y reutilizables gracia
 - **Sass (SCSS)**
 - **HTML5**
 - **CSS3**
+- **JavaScript**
 
 ## ✨ Características
 
