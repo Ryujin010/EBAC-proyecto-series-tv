@@ -17,7 +17,7 @@ Proyecto desarrollado durante mi formación en **EBAC**.
 
 ## 📖 Descripción
 
-Sitio sobre series de televisión con estilos organizados y reutilizables gracias a Sass (SCSS) y la API de .
+Sitio sobre series de televisión con estilos organizados y reutilizables gracias a Sass (SCSS) y la API https://api.tvmaze.com.
 
 <!-- Agrega aquí una captura de pantalla de tu proyecto:
 ![Vista previa](./img/preview.png)
