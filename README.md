@@ -1,6 +1,6 @@
 # Proyecto Series TV
 
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 > Sitio sobre series de televisión con estilos organizados y reutilizables gracias a Sass (SCSS).
 
@@ -19,10 +19,6 @@ Proyecto desarrollado durante mi formación en **EBAC**.
 
 Sitio sobre series de televisión con estilos organizados y reutilizables gracias a Sass (SCSS) y el uso de la API https://api.tvmaze.com, para la obtención de la información de las series a nivel mundial.
 
-<!-- Agrega aquí una captura de pantalla de tu proyecto:
-![Vista previa](./img/preview.png)
--->
-
 ## 🛠️ Tecnologías
 
 - **Sass (SCSS)**
@@ -35,6 +31,7 @@ Sitio sobre series de televisión con estilos organizados y reutilizables gracia
 - Estilos escritos en SCSS con variables y anidamiento
 - Estructura modular de hojas de estilo
 - Diseño visual enfocado en mostrar series de TV
+- Conección a la API https://api.tvmaze.com para la obtencion de los datos de las series. 
 
 ## 🚀 Instalación y uso
 
