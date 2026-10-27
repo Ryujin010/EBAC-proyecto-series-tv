@@ -17,7 +17,7 @@ Proyecto desarrollado durante mi formación en **EBAC**.
 
 ## 📖 Descripción
 
-Sitio sobre series de televisión con estilos organizados y reutilizables gracias a Sass (SCSS).
+Sitio sobre series de televisión con estilos organizados y reutilizables gracias a Sass (SCSS) y la API de .
 
 <!-- Agrega aquí una captura de pantalla de tu proyecto:
 ![Vista previa](./img/preview.png)
@@ -60,7 +60,7 @@ Luego:
 
 - Preprocesadores CSS: variables, anidamiento, mixins y parciales
 - Compilación de SCSS a CSS
-- Organización de estilos en proyectos más grandes
+- Organización de estilos en proyectos más grandes y el uso y coneccion a API's
 
 ## 👨‍💻 Autor
 
